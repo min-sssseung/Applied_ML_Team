@@ -14,14 +14,14 @@ class financial_dict():
     def dart_extract(self, code, year):
         # 매출액
         sales = self.dart.finstate(code, year)
-        sales[(sales['fs_nm']=='연결재무제표')&(sales['account_nm']=='매출액')].iloc[0, :] # 매출액 
+        # real_sales = sales[(sales['fs_nm']=='연결재무제표')&(sales['account_nm']=='매출액')].iloc[0, :] # 매출액 
 
-        c_sales = sales[(sales['fs_nm']=='연결재무제표')&(sales['account_nm']=='매출액')]['thstrm_amount'].values[0] # 매출액
-        p_sales = sales[(sales['fs_nm']=='연결재무제표')&(sales['account_nm']=='매출액')]['frmtrm_amount'].values[0] # t-1기 매출액
+        c_sales = sales[(sales['fs_nm']=='연결재무제표')&(sales['account_nm']=='매출액')]['thstrm_amount'].values # 매출액
+        p_sales = sales[(sales['fs_nm']=='연결재무제표')&(sales['account_nm']=='매출액')]['frmtrm_amount'].values # t-1기 매출액
 
         div_cash = self.dart.report(code, '배당', year) #(연결)현금배당성향(%)
-        c_div = div_cash[div_cash['se']=='(연결)현금배당성향(%)']['thstrm'].values[0] # 순이익이 마이너스일 경우 0% # 배당금 / 당기순이익
-        p_div = div_cash[div_cash['se']=='(연결)현금배당성향(%)']['frmtrm'].values[0]
+        c_div = div_cash[div_cash['se']=='(연결)현금배당성향(%)']['thstrm'].values # 순이익이 마이너스일 경우 0% # 배당금 / 당기순이익
+        p_div = div_cash[div_cash['se']=='(연결)현금배당성향(%)']['frmtrm'].values
 
         holder = self.dart.report(code, '최대주주', year) # 보통주 계 + 우선수 계 (%)
         ratio_stakeholder = holder[(holder['stock_knd']=='보통주')&(holder['nm']=='계')].iloc[0, -4]
@@ -30,7 +30,7 @@ class financial_dict():
         out_exec = exec[exec['ofcps'] == '사외이사'].shape[0]
         exec = exec.shape[0]
 
-        employee = self.dart.report(code, '직원', year)['rgllbr_co'].astype(int).sum() # 총 직원 수
+        employee = self.dart.report(code, '직원', year)['rgllbr_co'].to_list() # 총 직원 수
         
         
         
