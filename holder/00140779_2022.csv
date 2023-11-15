@@ -1,0 +1,4 @@
+,rcept_no,corp_cls,corp_code,corp_name,stock_knd,nm,relate,bsis_posesn_stock_co,bsis_posesn_stock_qota_rt,trmend_posesn_stock_co,trmend_posesn_stock_qota_rt,rm
+0,20230315000345,Y,00140779,영보화학,보통주,적수화학공업(주),본인,"10,200,000",51.00,"10,200,000",51.00,-
+1,20230315000345,Y,00140779,영보화학,보통주,계,,"10,200,000",51.00,"10,200,000",51.00,-
+2,20230315000345,Y,00140779,영보화학,우선주,계,,-,-,-,-,-

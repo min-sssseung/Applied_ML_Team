@@ -1,0 +1,6 @@
+,rcept_no,corp_cls,corp_code,corp_name,stock_knd,nm,relate,bsis_posesn_stock_co,bsis_posesn_stock_qota_rt,trmend_posesn_stock_co,trmend_posesn_stock_qota_rt,rm
+0,20220321001182,Y,00303873,CJ CGV,보통주,씨제이(주),최대주주,"13,478,228",38.40,"16,330,477",40.02,"1. 전환사채 전환권 행사에 따른 발행주식총수 증가로 인한 지분율 변동
+2. CJ올리브네트웍스 광고사업부문 합병으로 인하여 발행된 
+   신주(2,852,249주) 취득으로 인한 주식수 및 지분율 변동"
+1,20220321001182,Y,00303873,CJ CGV,보통주,계,,"13,478,228",38.40,"16,330,477",40.02,-
+2,20220321001182,Y,00303873,CJ CGV,-,계,,-,-,-,-,-

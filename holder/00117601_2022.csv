@@ -1,0 +1,5 @@
+,rcept_no,corp_cls,corp_code,corp_name,stock_knd,nm,relate,bsis_posesn_stock_co,bsis_posesn_stock_qota_rt,trmend_posesn_stock_co,trmend_posesn_stock_qota_rt,rm
+0,20230314000094,Y,00117601,유안타증권,보통주, Yuanta Securities Asia Financial Services Private Limited,본 인,"114,558,276",57.39,"115,504,369",57.87,최대주주 / 장내매수
+1,20230314000094,Y,00117601,유안타증권,보통주,황웨이청,발행회사 임원,"79,354",0.04,"79,354",0.04,등기임원(기타비상무이사)
+2,20230314000094,Y,00117601,유안타증권,보통주,계,,"114,637,630",57.43,"115,583,723",57.91,-
+3,20230314000094,Y,00117601,유안타증권,우선주,계,,-,-,-,-,-

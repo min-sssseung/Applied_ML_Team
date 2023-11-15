@@ -1,0 +1,4 @@
+,rcept_no,corp_cls,corp_code,corp_name,stock_knd,nm,relate,bsis_posesn_stock_co,bsis_posesn_stock_qota_rt,trmend_posesn_stock_co,trmend_posesn_stock_qota_rt,rm
+0,20210319001047,Y,00113410,CJ대한통운,보통주,CJ제일제당(주),본인,"9,162,522",40.16,"9,162,522",40.16,-
+1,20210319001047,Y,00113410,CJ대한통운,보통주,계,,"9,162,522",40.16,"9,162,522",40.16,-
+2,20210319001047,Y,00113410,CJ대한통운,우선주,계,,-,-,-,-,-

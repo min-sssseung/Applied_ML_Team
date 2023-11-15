@@ -1,0 +1,4 @@
+,rcept_no,corp_cls,corp_code,corp_name,stock_knd,nm,relate,bsis_posesn_stock_co,bsis_posesn_stock_qota_rt,trmend_posesn_stock_co,trmend_posesn_stock_qota_rt,rm
+0,20210317000949,Y,00158325,NICE평가정보,보통주,(주)NICE홀딩스,특수관계인,"26,102,906",42.99,"26,102,906",42.99,-
+1,20210317000949,Y,00158325,NICE평가정보,보통주,계,,"26,102,906",42.99,"26,102,906",42.99,-
+2,20210317000949,Y,00158325,NICE평가정보,우선주,계,,-,-,-,-,-

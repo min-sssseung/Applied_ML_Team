@@ -1,0 +1,4 @@
+,rcept_no,corp_cls,corp_code,corp_name,stock_knd,nm,relate,bsis_posesn_stock_co,bsis_posesn_stock_qota_rt,trmend_posesn_stock_co,trmend_posesn_stock_qota_rt,rm
+0,20220321000712,K,00353610,이니텍,의결권 있는 주식,(주)케이티디에스,최대주주 본인,0,0.00,"5,937,275",30.00,-
+1,20220321000712,K,00353610,이니텍,의결권 있는 주식,계,,0,0.00,"5,937,275",30.00,-
+2,20220321000712,K,00353610,이니텍,의결권 없는 주식,계,,-,-,-,-,-

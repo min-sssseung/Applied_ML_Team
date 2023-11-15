@@ -1,0 +1,5 @@
+,rcept_no,corp_cls,corp_code,corp_name,sexdstn,fo_bbm,reform_bfe_emp_co_rgllbr,reform_bfe_emp_co_cnttk,reform_bfe_emp_co_etc,rgllbr_co,rgllbr_abacpt_labrr_co,cnttk_co,cnttk_abacpt_labrr_co,sm,avrg_cnwk_sdytrn,fyer_salary_totamt,jan_salary_am,rm
+0,20210810000311,K,00857727,하림,남,관리직,-,-,-,534,-,-,-,534,9.6,"30,668,755,000","57,432,000",-
+1,20210810000311,K,00857727,하림,여,관리직,-,-,-,120,-,-,-,120,7.1,"4,514,872,000","37,624,000",-
+2,20210810000311,K,00857727,하림,남,생산직,-,-,-,637,-,5,-,642,5.9,"27,057,616,000","42,146,000",-
+3,20210810000311,K,00857727,하림,여,생산직,-,-,-,"1,029",-,9,-,"1,038",9.1,"40,404,138,000","38,925,000",-

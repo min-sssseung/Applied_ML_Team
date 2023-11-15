@@ -1,0 +1,4 @@
+,rcept_no,corp_cls,corp_code,corp_name,stock_knd,nm,relate,bsis_posesn_stock_co,bsis_posesn_stock_qota_rt,trmend_posesn_stock_co,trmend_posesn_stock_qota_rt,rm
+0,20230714000061,Y,00164645,HMM,보통주,한국산업은행,본인,"101,199,297",20.69,"101,199,297",20.69,-
+1,20230714000061,Y,00164645,HMM,보통주,계,,"101,199,297",20.69,"101,199,297",20.69,-
+2,20230714000061,Y,00164645,HMM,우선주,계,,-,-,-,-,-

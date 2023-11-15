@@ -1,0 +1,4 @@
+,rcept_no,corp_cls,corp_code,corp_name,stock_knd,nm,relate,bsis_posesn_stock_co,bsis_posesn_stock_qota_rt,trmend_posesn_stock_co,trmend_posesn_stock_qota_rt,rm
+0,20210322000972,Y,00186559,콤텍시스템,보통주,주식회사 아이티센,최대주주,"16,255,846",23.96,"16,255,846",23.96,-
+1,20210322000972,Y,00186559,콤텍시스템,보통주,계,,"16,255,846",23.96,"16,255,846",23.96,-
+2,20210322000972,Y,00186559,콤텍시스템,우선주,계,,-,-,-,-,-

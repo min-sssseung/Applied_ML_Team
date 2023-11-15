@@ -1,0 +1,5 @@
+,rcept_no,corp_cls,corp_code,corp_name,stock_knd,nm,relate,bsis_posesn_stock_co,bsis_posesn_stock_qota_rt,trmend_posesn_stock_co,trmend_posesn_stock_qota_rt,rm
+0,20210319001134,Y,00161125,한온시스템,보통주,"한앤코오토홀딩스 
+유한회사",본인,"269,569,000",50.50,"269,569,000",50.50,-
+1,20210319001134,Y,00161125,한온시스템,보통주,계,,"269,569,000",50.50,"269,569,000",50.50,-
+2,20210319001134,Y,00161125,한온시스템,우선주,계,,-,-,-,-,-

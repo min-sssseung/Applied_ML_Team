@@ -1,0 +1,5 @@
+,rcept_no,corp_cls,corp_code,corp_name,stock_knd,nm,relate,bsis_posesn_stock_co,bsis_posesn_stock_qota_rt,trmend_posesn_stock_co,trmend_posesn_stock_qota_rt,rm
+0,20230320000162,Y,00201450,SK렌터카,보통주식,SK네트웍스(주),최대주주,"34,493,200",72.95,"34,493,200",72.95,-
+1,20230320000162,Y,00201450,SK렌터카,보통주식,송원자,-,10,0.00,10,0.00,-
+2,20230320000162,Y,00201450,SK렌터카,보통주식,계,,"34,493,210",72.95,"34,493,210",72.95,-
+3,20230320000162,Y,00201450,SK렌터카,우선주식,계,,-,-,-,-,-

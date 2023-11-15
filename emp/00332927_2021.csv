@@ -1,0 +1,5 @@
+,rcept_no,corp_cls,corp_code,corp_name,sexdstn,fo_bbm,reform_bfe_emp_co_rgllbr,reform_bfe_emp_co_cnttk,reform_bfe_emp_co_etc,rgllbr_co,rgllbr_abacpt_labrr_co,cnttk_co,cnttk_abacpt_labrr_co,sm,avrg_cnwk_sdytrn,fyer_salary_totamt,jan_salary_am,rm
+0,20220715000180,Y,00332927,제이에스코퍼레이션,남,사무,-,-,-,28,-,2,2,30,4.5,"1,730,000,000","58,000,000",-
+1,20220715000180,Y,00332927,제이에스코퍼레이션,여,사무,-,-,-,24,-,1,1,25,6.6,"1,212,000,000","48,000,000",-
+2,20220715000180,Y,00332927,제이에스코퍼레이션,남,생산,-,-,-,57,-,-,-,57,4.9,"3,509,000,000","62,000,000",-
+3,20220715000180,Y,00332927,제이에스코퍼레이션,여,생산,-,-,-,7,-,-,-,7,2.6,"288,000,000","41,000,000",-

@@ -1,0 +1,5 @@
+,rcept_no,corp_cls,corp_code,corp_name,stock_knd,nm,relate,bsis_posesn_stock_co,bsis_posesn_stock_qota_rt,trmend_posesn_stock_co,trmend_posesn_stock_qota_rt,rm
+0,20210218000901,Y,00648721,SNT에너지,보통주,(주)S&T홀딩스,최대주주,"4,169,667",55.55,"4,169,667",55.55,-
+1,20210218000901,Y,00648721,SNT에너지,보통주,최평규,최대주주의 최대출자자,"29,101",0.39,"29,101",0.39,-
+2,20210218000901,Y,00648721,SNT에너지,보통주,계,,"4,198,768",55.93,"4,198,768",55.93,-
+3,20210218000901,Y,00648721,SNT에너지,-,계,,-,-,-,-,-

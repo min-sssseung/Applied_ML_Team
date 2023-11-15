@@ -1,0 +1,5 @@
+,rcept_no,corp_cls,corp_code,corp_name,sexdstn,fo_bbm,reform_bfe_emp_co_rgllbr,reform_bfe_emp_co_cnttk,reform_bfe_emp_co_etc,rgllbr_co,rgllbr_abacpt_labrr_co,cnttk_co,cnttk_abacpt_labrr_co,sm,avrg_cnwk_sdytrn,fyer_salary_totamt,jan_salary_am,rm
+0,20220712000231,Y,00172228,엔케이,남,관리직,-,-,-,90,0,0,0,90,5.22 ,"4,573,635,392","50,818,171",-
+1,20220712000231,Y,00172228,엔케이,여,관리직,-,-,-,11,0,0,0,11,3.83 ,"365,011,015","33,182,820",-
+2,20220712000231,Y,00172228,엔케이,남,생산직,-,-,-,11,0,53,0,64,0.94 ,"513,121,782","8,017,528",-
+3,20220712000231,Y,00172228,엔케이,여,생산직,-,-,-,0,0,0,0,0,0.00 ,-,-,-

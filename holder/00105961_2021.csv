@@ -1,0 +1,4 @@
+,rcept_no,corp_cls,corp_code,corp_name,stock_knd,nm,relate,bsis_posesn_stock_co,bsis_posesn_stock_qota_rt,trmend_posesn_stock_co,trmend_posesn_stock_qota_rt,rm
+0,20220222003015,Y,00105961,LG이노텍,보통주,LG전자㈜,최대주주,"9,653,181",40.79,"9,653,181",40.79,-
+1,20220222003015,Y,00105961,LG이노텍,보통주,계,,"9,653,181",40.79,"9,653,181",40.79,-
+2,20220222003015,Y,00105961,LG이노텍,-,계,,-,-,-,-,-

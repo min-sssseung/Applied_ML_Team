@@ -1,0 +1,4 @@
+,rcept_no,corp_cls,corp_code,corp_name,stock_knd,nm,relate,bsis_posesn_stock_co,bsis_posesn_stock_qota_rt,trmend_posesn_stock_co,trmend_posesn_stock_qota_rt,rm
+0,20220323000788,Y,00133706,한국제지,보통주,해성산업(주),최대주주,"29,204,504",50.73,"29,204,504",50.73,-
+1,20220323000788,Y,00133706,한국제지,보통주,계,,"29,204,504",50.73,"29,204,504",50.73,-
+2,20220323000788,Y,00133706,한국제지,우선주,계,,0,0.00,0,0.00,-

@@ -1,0 +1,4 @@
+,rcept_no,corp_cls,corp_code,corp_name,stock_knd,nm,relate,bsis_posesn_stock_co,bsis_posesn_stock_qota_rt,trmend_posesn_stock_co,trmend_posesn_stock_qota_rt,rm
+0,20230727000454,Y,00273615,비케이탑스,보통주식,정상용,대표이사,"1,547,987",10.25,"7,547,987",27.70,-
+1,20230727000454,Y,00273615,비케이탑스,보통주식,계,,"1,547,987",10.25,"7,547,987",27.70,-
+2,20230727000454,Y,00273615,비케이탑스,합계,계,,"1,547,987",10.25,"7,547,987",27.70,-

@@ -1,0 +1,4 @@
+,rcept_no,corp_cls,corp_code,corp_name,stock_knd,nm,relate,bsis_posesn_stock_co,bsis_posesn_stock_qota_rt,trmend_posesn_stock_co,trmend_posesn_stock_qota_rt,rm
+0,20220316001172,Y,00369833,유니온머티리얼,보통주,(주)유니온,최대주주,"18,510,820",44.07,"18,510,820",44.07,-
+1,20220316001172,Y,00369833,유니온머티리얼,보통주,계,,"18,510,820",44.07,"18,510,820",44.07,-
+2,20220316001172,Y,00369833,유니온머티리얼,우선주,계,,0,0.00,0,0.00,-

@@ -1,0 +1,4 @@
+,rcept_no,corp_cls,corp_code,corp_name,stock_knd,nm,relate,bsis_posesn_stock_co,bsis_posesn_stock_qota_rt,trmend_posesn_stock_co,trmend_posesn_stock_qota_rt,rm
+0,20230331003463,Y,00105606,금호에이치티,보통주,에스맥(주),최대주주,"48,809,993",24.80,"55,770,776",28.43,장내매수
+1,20230331003463,Y,00105606,금호에이치티,보통주,계,,"48,809,993",24.80,"55,770,776",28.43,-
+2,20230331003463,Y,00105606,금호에이치티,-,계,,-,-,-,-,-

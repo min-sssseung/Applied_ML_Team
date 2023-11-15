@@ -1,0 +1,5 @@
+,rcept_no,corp_cls,corp_code,corp_name,stock_knd,nm,relate,bsis_posesn_stock_co,bsis_posesn_stock_qota_rt,trmend_posesn_stock_co,trmend_posesn_stock_qota_rt,rm
+0,20230714000214,Y,00367844,자이에스앤디,의결권있는주식, GS건설(주),최대주주,"19,319,000",49.81,"19,319,000",39.40,"주 1)
+주 2)"
+1,20230714000214,Y,00367844,자이에스앤디,의결권있는주식,계,,"19,319,000",49.81,"19,319,000",39.40,-
+2,20230714000214,Y,00367844,자이에스앤디,의결권없는주식,계,,-,-,-,-,-

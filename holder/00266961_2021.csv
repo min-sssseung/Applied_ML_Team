@@ -1,0 +1,5 @@
+,rcept_no,corp_cls,corp_code,corp_name,stock_knd,nm,relate,bsis_posesn_stock_co,bsis_posesn_stock_qota_rt,trmend_posesn_stock_co,trmend_posesn_stock_qota_rt,rm
+0,20220304000687,Y,00266961,NAVER,보통주,국민연금공단,본인,0,0.00,0,0.00,-
+1,20220304000687,Y,00266961,NAVER,보통주,국민연금기금,특수관계인,"18,985,923",11.56,"14,670,489",8.94,장내매도
+2,20220304000687,Y,00266961,NAVER,보통주,계,,"18,985,923",11.56,"14,670,489",8.94,장내매도
+3,20220304000687,Y,00266961,NAVER,-,계,,-,-,-,-,-

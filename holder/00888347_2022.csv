@@ -1,0 +1,9 @@
+,rcept_no,corp_cls,corp_code,corp_name,stock_knd,nm,relate,bsis_posesn_stock_co,bsis_posesn_stock_qota_rt,trmend_posesn_stock_co,trmend_posesn_stock_qota_rt,rm
+0,20230322000933,K,00888347,휴젤,보통주,"Leguh Issuer Designated
+Activity Company","변경 전
+최대주주","5,355,651",43.24,0,0.00,-
+1,20230322000933,K,00888347,휴젤,보통주,"Aphrodite Acquisition
+Holdings LLC","변경 후
+최대주주",0,0.00,"5,355,651",43.24,(*)
+2,20230322000933,K,00888347,휴젤,보통주,계,,"5,355,651",43.24,"5,355,651",43.24,-
+3,20230322000933,K,00888347,휴젤,우선주,계,,-,-,-,-,-

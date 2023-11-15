@@ -1,0 +1,4 @@
+,rcept_no,corp_cls,corp_code,corp_name,stock_knd,nm,relate,bsis_posesn_stock_co,bsis_posesn_stock_qota_rt,trmend_posesn_stock_co,trmend_posesn_stock_qota_rt,rm
+0,20220816002184,Y,00188089,한섬,의결권 있는 주식,(주)현대홈쇼핑,본 인,"8,532,763",34.64,"8,532,763",34.64,-
+1,20220816002184,Y,00188089,한섬,의결권 있는 주식,계,,"8,532,763",34.64,"8,532,763",34.64,-
+2,20220816002184,Y,00188089,한섬,의결권 없는 주식,계,,-,-,-,-,-

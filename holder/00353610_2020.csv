@@ -1,0 +1,4 @@
+,rcept_no,corp_cls,corp_code,corp_name,stock_knd,nm,relate,bsis_posesn_stock_co,bsis_posesn_stock_qota_rt,trmend_posesn_stock_co,trmend_posesn_stock_qota_rt,rm
+0,20210316000087,K,00353610,이니텍,의결권 있는 주식,㈜에이치엔씨네트워크,최대주주 본인,"11,280,069",57.00,"11,280,069",57.00,-
+1,20210316000087,K,00353610,이니텍,의결권 있는 주식,계,,"11,280,069",57.00,"11,280,069",57.00,-
+2,20210316000087,K,00353610,이니텍,의결권 없는 주식,계,,-,-,-,-,-

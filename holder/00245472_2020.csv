@@ -1,0 +1,4 @@
+,rcept_no,corp_cls,corp_code,corp_name,stock_knd,nm,relate,bsis_posesn_stock_co,bsis_posesn_stock_qota_rt,trmend_posesn_stock_co,trmend_posesn_stock_qota_rt,rm
+0,20210323000096,K,00245472,티씨케이,보통주,"TOKAI CARBON CO.,LTD.",최대주주,"5,183,250",44.40,"5,183,250",44.40,-
+1,20210323000096,K,00245472,티씨케이,보통주,계,,"5,183,250",44.40,"5,183,250",44.40,-
+2,20210323000096,K,00245472,티씨케이,우선주,계,,-,-,-,-,-

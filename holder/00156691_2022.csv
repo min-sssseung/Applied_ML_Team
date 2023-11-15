@@ -1,0 +1,4 @@
+,rcept_no,corp_cls,corp_code,corp_name,stock_knd,nm,relate,bsis_posesn_stock_co,bsis_posesn_stock_qota_rt,trmend_posesn_stock_co,trmend_posesn_stock_qota_rt,rm
+0,20230314001107,Y,00156691,한국공항,보통주,대한항공,계열회사,"1,885,134",59.54,"1,885,134",59.54,-
+1,20230314001107,Y,00156691,한국공항,보통주,계,,"1,885,134",59.54,"1,885,134",59.54,-
+2,20230314001107,Y,00156691,한국공항,-,계,,-,-,-,-,-

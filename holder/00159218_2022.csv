@@ -1,0 +1,4 @@
+,rcept_no,corp_cls,corp_code,corp_name,stock_knd,nm,relate,bsis_posesn_stock_co,bsis_posesn_stock_qota_rt,trmend_posesn_stock_co,trmend_posesn_stock_qota_rt,rm
+0,20230320000353,Y,00159218,한전KPS,보통주,한국전력공사,모회사,"22,952,000",51.00,"22,952,000",51.00,-
+1,20230320000353,Y,00159218,한전KPS,보통주,계,,"22,952,000",51.00,"22,952,000",51.00,-
+2,20230320000353,Y,00159218,한전KPS,-,계,,-,-,-,-,-

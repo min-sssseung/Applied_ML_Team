@@ -1,0 +1,4 @@
+,rcept_no,corp_cls,corp_code,corp_name,stock_knd,nm,relate,bsis_posesn_stock_co,bsis_posesn_stock_qota_rt,trmend_posesn_stock_co,trmend_posesn_stock_qota_rt,rm
+0,20230714000203,K,00104573,국일제지,보통주,최우식,본인,"41,000,000",32.13,"41,000,000",32.13,-
+1,20230714000203,K,00104573,국일제지,보통주,계,,"41,000,000",32.13,"41,000,000",32.13,-
+2,20230714000203,K,00104573,국일제지,우선주,계,,0,0.00,0,0.00,-

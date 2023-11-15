@@ -1,0 +1,4 @@
+,rcept_no,corp_cls,corp_code,corp_name,stock_knd,nm,relate,bsis_posesn_stock_co,bsis_posesn_stock_qota_rt,trmend_posesn_stock_co,trmend_posesn_stock_qota_rt,rm
+0,20220317000845,Y,00158149,한국쉘석유,보통주,Shell Petroleum N.V,투자법인,"700,000",53.85,"700,000",53.85,-
+1,20220317000845,Y,00158149,한국쉘석유,보통주,계,,"700,000",53.85,"700,000",53.85,-
+2,20220317000845,Y,00158149,한국쉘석유,우선주,계,,-,-,-,-,-

@@ -1,0 +1,5 @@
+,rcept_no,corp_cls,corp_code,corp_name,sexdstn,fo_bbm,reform_bfe_emp_co_rgllbr,reform_bfe_emp_co_cnttk,reform_bfe_emp_co_etc,rgllbr_co,rgllbr_abacpt_labrr_co,cnttk_co,cnttk_abacpt_labrr_co,sm,avrg_cnwk_sdytrn,fyer_salary_totamt,jan_salary_am,rm
+0,20220308000915,Y,00126362,삼성SDI,남,에너지,-,-,-,"7,236",-,795,-,"8,031",13.2,"853,207,000,000","109,000,000",-
+1,20220308000915,Y,00126362,삼성SDI,여,에너지,-,-,-,"1,166",-,103,-,"1,269",10.0,"103,900,000,000","89,000,000",-
+2,20220308000915,Y,00126362,삼성SDI,남,전자재료,-,-,-,"1,604",-,24,-,"1,628",13.1,"213,986,000,000","129,000,000",-
+3,20220308000915,Y,00126362,삼성SDI,여,전자재료,-,-,-,380,1,6,-,387,9.8,"37,684,000,000","109,000,000",-

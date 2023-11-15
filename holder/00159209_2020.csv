@@ -1,0 +1,6 @@
+,rcept_no,corp_cls,corp_code,corp_name,stock_knd,nm,relate,bsis_posesn_stock_co,bsis_posesn_stock_qota_rt,trmend_posesn_stock_co,trmend_posesn_stock_qota_rt,rm
+0,20210322000901,Y,00159209,한전기술,"보통주
+(의결권있음)",한국전력공사,최대주주 본인,"25,138,694",65.77,"25,138,694",65.77,-
+1,20210322000901,Y,00159209,한전기술,"보통주
+(의결권있음)",계,,"25,138,694",65.77,"25,138,694",65.77,-
+2,20210322000901,Y,00159209,한전기술,-,계,,-,-,-,-,-

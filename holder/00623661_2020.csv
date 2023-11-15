@@ -1,0 +1,4 @@
+,rcept_no,corp_cls,corp_code,corp_name,stock_knd,nm,relate,bsis_posesn_stock_co,bsis_posesn_stock_qota_rt,trmend_posesn_stock_co,trmend_posesn_stock_qota_rt,rm
+0,20210316000446,K,00623661,원익머트리얼즈,보통주,(주)원익홀딩스,최대주주,"5,760,000",45.69,"5,760,000",45.69,-
+1,20210316000446,K,00623661,원익머트리얼즈,보통주,계,,"5,760,000",45.69,"5,760,000",45.69,-
+2,20210316000446,K,00623661,원익머트리얼즈,우선주,계,,-,-,-,-,-

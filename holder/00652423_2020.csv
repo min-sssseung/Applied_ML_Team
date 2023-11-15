@@ -1,0 +1,4 @@
+,rcept_no,corp_cls,corp_code,corp_name,stock_knd,nm,relate,bsis_posesn_stock_co,bsis_posesn_stock_qota_rt,trmend_posesn_stock_co,trmend_posesn_stock_qota_rt,rm
+0,20210323000375,Y,00652423,인바이오젠,보통주,(주)버킷스튜디오,본인,"8,932,550",21.66,"10,985,682",21.31,-
+1,20210323000375,Y,00652423,인바이오젠,보통주,계,,"8,932,550",21.66,"10,985,682",21.31,-
+2,20210323000375,Y,00652423,인바이오젠,우선주,계,,-,-,-,-,-

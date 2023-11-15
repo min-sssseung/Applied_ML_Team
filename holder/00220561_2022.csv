@@ -1,0 +1,4 @@
+,rcept_no,corp_cls,corp_code,corp_name,stock_knd,nm,relate,bsis_posesn_stock_co,bsis_posesn_stock_qota_rt,trmend_posesn_stock_co,trmend_posesn_stock_qota_rt,rm
+0,20230314000982,Y,00220561,광주신세계,보통주,(주)신세계,계열회사,"1,000,000",62.50,"5,000,000",62.50,2022.04.08 액면분할로 인한 주식수 증가
+1,20230314000982,Y,00220561,광주신세계,보통주,계,,"1,000,000",62.50,"5,000,000",62.50,-
+2,20230314000982,Y,00220561,광주신세계,우선주,계,,-,-,-,-,-

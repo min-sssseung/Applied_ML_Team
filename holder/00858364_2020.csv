@@ -1,0 +1,4 @@
+,rcept_no,corp_cls,corp_code,corp_name,stock_knd,nm,relate,bsis_posesn_stock_co,bsis_posesn_stock_qota_rt,trmend_posesn_stock_co,trmend_posesn_stock_qota_rt,rm
+0,20210318001067,Y,00858364,BNK금융지주,보통주,국민연금공단,본인,"37,684,776",11.56,"43,995,780",13.50,-
+1,20210318001067,Y,00858364,BNK금융지주,보통주,계,,"37,684,776",11.56,"43,995,780",13.50,-
+2,20210318001067,Y,00858364,BNK금융지주,우선주,계,,-,-,-,-,-

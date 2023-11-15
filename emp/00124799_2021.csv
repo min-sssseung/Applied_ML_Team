@@ -1,0 +1,5 @@
+,rcept_no,corp_cls,corp_code,corp_name,sexdstn,fo_bbm,reform_bfe_emp_co_rgllbr,reform_bfe_emp_co_cnttk,reform_bfe_emp_co_etc,rgllbr_co,rgllbr_abacpt_labrr_co,cnttk_co,cnttk_abacpt_labrr_co,sm,avrg_cnwk_sdytrn,fyer_salary_totamt,jan_salary_am,rm
+0,20220316001349,Y,00124799,사조산업,남,본사,-,-,-,59,-,3,-,62,11.45,"3,837,000,000","62,000,000",-
+1,20220316001349,Y,00124799,사조산업,여,본사,-,-,-,21,-,-,-,21,8.75,"710,000,000","34,000,000",-
+2,20220316001349,Y,00124799,사조산업,남,생산부문,-,-,-,109,-,212,-,321,1.07,"28,187,000,000","88,000,000",-
+3,20220316001349,Y,00124799,사조산업,여,생산부문,-,-,-,101,-,84,-,185,1.39,"6,493,000,000","35,000,000",-

@@ -1,0 +1,5 @@
+,rcept_no,corp_cls,corp_code,corp_name,stock_knd,nm,relate,bsis_posesn_stock_co,bsis_posesn_stock_qota_rt,trmend_posesn_stock_co,trmend_posesn_stock_qota_rt,rm
+0,20210310001052,Y,00525934,LX세미콘,보통주,(주)LG,최대주주,"5,380,524",33.08,"5,380,524",33.08,-
+1,20210310001052,Y,00525934,LX세미콘,보통주,손보익,임원,"1,826",0.01,"1,826",0.01,-
+2,20210310001052,Y,00525934,LX세미콘,보통주,계,,"5,382,350",33.09,"5,382,350",33.09,-
+3,20210310001052,Y,00525934,LX세미콘,-,계,,-,-,-,-,-

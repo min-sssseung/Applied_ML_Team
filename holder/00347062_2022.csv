@@ -1,0 +1,4 @@
+,rcept_no,corp_cls,corp_code,corp_name,stock_knd,nm,relate,bsis_posesn_stock_co,bsis_posesn_stock_qota_rt,trmend_posesn_stock_co,trmend_posesn_stock_qota_rt,rm
+0,20230310001024,K,00347062,현대바이오랜드,보통주,(주)현대퓨처넷,최대주주,"5,250,000",35.00,"5,250,000",35.00,-
+1,20230310001024,K,00347062,현대바이오랜드,보통주,계,,"5,250,000",35.00,"5,250,000",35.00,-
+2,20230310001024,K,00347062,현대바이오랜드,기타,계,,-,-,-,-,-

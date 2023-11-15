@@ -1,0 +1,4 @@
+,rcept_no,corp_cls,corp_code,corp_name,stock_knd,nm,relate,bsis_posesn_stock_co,bsis_posesn_stock_qota_rt,trmend_posesn_stock_co,trmend_posesn_stock_qota_rt,rm
+0,20220809000116,Y,00367844,자이에스앤디,보통주,지에스건설,최대주주,"16,382,520",61.17,"19,319,000",49.81,주 1)
+1,20220809000116,Y,00367844,자이에스앤디,보통주,계,,"16,382,520",61.17,"19,319,000",49.81,-
+2,20220809000116,Y,00367844,자이에스앤디,우선주,계,,-,-,-,-,-
