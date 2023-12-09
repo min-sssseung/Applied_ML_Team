@@ -34,14 +34,14 @@ plt.figure()
 sns.countplot(data=df2, x='ESG') # imbalanced dataset
 plt.show()
 
-# # Multi-label task
-# for i, col in enumerate(df2.columns[5:]):
-#     plt.figure(figsize=(10, 8))
-#     sns.kdeplot(data=df2, x=col, hue='ESG',  fill=True)
-#     plt.title(col)
-#     plt.tight_layout()
-#     plt.show()
-# # QuantileTransformer, PowerTransformer로 진행해도 괜찮을듯 
+# Multi-label task
+for i, col in enumerate(df2.columns[5:]):
+    plt.figure(figsize=(10, 8))
+    sns.kdeplot(data=df2, x=col, hue='ESG',  fill=True)
+    plt.title(col)
+    plt.tight_layout()
+    plt.show()
+# QuantileTransformer, PowerTransformer로 진행해도 괜찮을듯 
 
 
 # # Binary Task
